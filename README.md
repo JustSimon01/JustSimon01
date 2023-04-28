@@ -1,39 +1,33 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
-</div>
+# Frontend developer
 
-<h1 align="center">Привет, меня зовут Семен</h1>
-<h3 align="center">И я начинающий Frontend разработчик</h3>
+<p>Занимаюсь web разработкой с 2022 года. Сейчас являюсь студентом Яндекс Практикума последних курсов.</p>
+<p>На пердыдущем месте работы имел опыт коммерческой разработки со стороны заказчика, этот опыт и сподвигнул меня заняться Frontend разработкой 💻</p>
 
-- 🔭 Сейчас я работаю над покрытием тестами проекта [Algorythms](https://github.com/JustSimon01/algososh)
+### Над чем работаю сейчас?
+- 🔭 Покрываю тестами проект визуализации алгоритов [Algorythms](https://github.com/JustSimon01/algososh)
 
 - 🌱 Обучаюсь на последних курсах Яндекс Практикума **впереди еще Node.js, MongoDB, Docker и многое другое =)**
 
 - 👨‍💻 В планах изучить новые фреймворки и заняться изучением бэкенда. [(Vue, PHP или Python? Что посоветовали бы?🤔)]((Vue, PHP или Python? Что посоветовали бы?🤔))
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Мой стек:
+<p align="left">
+  <img src="https://img.shields.io/badge/Javascript-323232?style=for-the-badge&logo=javascript&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Typescript-323232?style=for-the-badge&logo=typescript&logoColor=blue" />
+  <img src="https://img.shields.io/badge/React-323232?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/redux-323232?style=for-the-badge&logo=redux&logoColor=764ABC" />
+  <img src="https://img.shields.io/badge/React router-323232?style=for-the-badge&logo=react router&logoColor=CA4245" />
+  <img src="https://img.shields.io/badge/HTML5-323232?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-323232?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/SASS-323232?style=for-the-badge&logo=sass&logoColor=CC6699" />
+  <img src="https://img.shields.io/badge/Webpack-323232?style=for-the-badge&logo=webpack&logoColor=8DD6F9" />
+  <img src="https://img.shields.io/badge/Figma-323232?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+</p>
 
+### Немного статистики:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustSimon01&show_icons=true&theme=darcula&hide=issues)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustSimon01&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
-### Hi there 👋
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustSimon01&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustSimon01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://www.codewars.com/users/JustSimon01/badges/small"/>
-
-<!--
-**JustSimon01/JustSimon01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Контакты
+E-mail: <a href="mailto:simon.ch@yandex.ru">simon.ch@yandex.ru</a>  
+Telegramm: <a href="https://t.me/JustSimon01">@JustSimon01</a>
