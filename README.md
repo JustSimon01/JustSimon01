@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" style="border-radius:50%"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 </div>
 
 <h1 align="center">Привет, меня зовут Семен</h1>
@@ -20,6 +20,9 @@
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustSimon01&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustSimon01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://www.codewars.com/users/JustSimon01/badges/small"/>
+https://www.codewars.com/users/JustSimon01/badges/small
 
 <!--
 **JustSimon01/JustSimon01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
