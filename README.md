@@ -1,5 +1,6 @@
 # Frontend developer
-
+E-mail: <a href="mailto:simon.ch@yandex.ru">simon.ch@yandex.ru</a>  
+Telegramm: <a href="https://t.me/JustSimon01">@JustSimon01</a>  
 <p>Занимаюсь web разработкой с 2022 года. Сейчас являюсь студентом Яндекс Практикума последних курсов.</p>
 <p>На пердыдущем месте работы имел опыт коммерческой разработки со стороны заказчика, этот опыт и сподвигнул меня заняться Frontend разработкой 💻</p>
 
@@ -27,7 +28,3 @@
 ### Немного статистики:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustSimon01&show_icons=true&theme=darcula&hide=issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustSimon01&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
-
-### Контакты
-E-mail: <a href="mailto:simon.ch@yandex.ru">simon.ch@yandex.ru</a>  
-Telegramm: <a href="https://t.me/JustSimon01">@JustSimon01</a>
