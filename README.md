@@ -22,7 +22,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustSimon01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://www.codewars.com/users/JustSimon01/badges/small"/>
-https://www.codewars.com/users/JustSimon01/badges/small
 
 <!--
 **JustSimon01/JustSimon01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
