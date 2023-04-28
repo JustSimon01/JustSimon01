@@ -1,4 +1,4 @@
-<div id="header" align="center" style="border-radius: 30px;" width="450">
+<div id="header" align="center" style="border-radius: 30px; background-color: red;" width="450" >
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" style="border-radius: 30px;"/>
 </div>
 ### Hi there 👋
