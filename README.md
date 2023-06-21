@@ -35,4 +35,4 @@ Telegramm: <a href="https://t.me/JustSimon01">@JustSimon01</a>
 
 ### Немного статистики:
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JustSimon01&show_icons=true&theme=darcula&hide=issues&rank_icon=github)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JustSimon01&layout=compact&theme=darcula)]
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JustSimon01&layout=compact&theme=darcula)
