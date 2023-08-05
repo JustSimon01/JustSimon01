@@ -20,6 +20,7 @@ Telegramm: <a href="https://t.me/JustSimon01">@JustSimon01</a>
  📌<a href="https://justsimon01.github.io/russian-travel/">Путешествие по России.</a> 
 
 ### Мой стек:
+### Frontend:
 <p align="left">
   <img src="https://img.shields.io/badge/Javascript-323232?style=for-the-badge&logo=javascript&logoColor=yellow" />
   <img src="https://img.shields.io/badge/Typescript-323232?style=for-the-badge&logo=typescript&logoColor=blue" />
@@ -31,6 +32,21 @@ Telegramm: <a href="https://t.me/JustSimon01">@JustSimon01</a>
   <img src="https://img.shields.io/badge/SASS-323232?style=for-the-badge&logo=sass&logoColor=CC6699" />
   <img src="https://img.shields.io/badge/Webpack-323232?style=for-the-badge&logo=webpack&logoColor=8DD6F9" />
   <img src="https://img.shields.io/badge/Figma-323232?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+</p>
+
+### Backend:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-323232?style=for-the-badge&logo=nodedotjs&logoColor=#339933" />
+  <img src="https://img.shields.io/badge/Express-323232?style=for-the-badge&logo=express&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Mongoose-323232?style=for-the-badge&logo=mongoose&logoColor=764ABC" />
+  <img src="https://img.shields.io/badge/MongoDB-323232?style=for-the-badge&logo=mongodb&logoColor=green" />
+  <img src="https://img.shields.io/badge/Nest-323232?style=for-the-badge&logo=nestjs&logoColor=#E0234E" />
+  <img src="https://img.shields.io/badge/PostgreSQL-323232?style=for-the-badge&logo=postgresql&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Ubuntu-323232?style=for-the-badge&logo=ubuntu&logoColor=#E95420" />
+  <img src="https://img.shields.io/badge/nginx-323232?style=for-the-badge&logo=nginx&logoColor=#009639" />
+  <img src="https://img.shields.io/badge/PM2-323232?style=for-the-badge&logo=pm2&logoColor=#2B037A" />
+  <img src="https://img.shields.io/badge/docker-323232?style=for-the-badge&logo=docker&logoColor=#2496ED" />
 </p>
 
 ### Немного статистики:
