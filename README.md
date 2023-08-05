@@ -20,7 +20,7 @@ Telegramm: <a href="https://t.me/JustSimon01">@JustSimon01</a>
  📌<a href="https://justsimon01.github.io/russian-travel/">Путешествие по России.</a> 
 
 ### Мой стек:
-### Frontend:
+#### Frontend:
 <p align="left">
   <img src="https://img.shields.io/badge/Javascript-323232?style=for-the-badge&logo=javascript&logoColor=yellow" />
   <img src="https://img.shields.io/badge/Typescript-323232?style=for-the-badge&logo=typescript&logoColor=blue" />
@@ -34,8 +34,7 @@ Telegramm: <a href="https://t.me/JustSimon01">@JustSimon01</a>
   <img src="https://img.shields.io/badge/Figma-323232?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 </p>
 
-### Backend:
-
+#### Backend:
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-323232?style=for-the-badge&logo=nodedotjs&logoColor=#339933" />
   <img src="https://img.shields.io/badge/Express-323232?style=for-the-badge&logo=express&logoColor=blue" />
