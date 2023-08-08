@@ -49,5 +49,5 @@ Telegramm: <a href="https://t.me/JustSimon01">@JustSimon01</a>
 </p>
 
 ### Немного статистики:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustSimon01&show_icons=true&theme=darcula&hide=issues&rank_icon=github)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustSimon01&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats-tawny-pi-55.vercel.app/api?username=JustSimon01&show_icons=true&theme=darcula&hide=issues&rank_icon=github)
+[![Top Langs](https://github-readme-stats-tawny-pi-55.vercel.app/api/top-langs/?username=JustSimon01&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
