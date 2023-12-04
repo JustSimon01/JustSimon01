@@ -2,15 +2,13 @@
 E-mail: <a href="mailto:simon.ch@yandex.ru">simon.ch@yandex.ru</a>  
 Telegramm: <a href="https://t.me/JustSimon01">@JustSimon01</a>  
 Резюме: <a href="https://careful-wasp-426.notion.site/a90f3ddb7aeb4f909d1931182600b810">notion.so</a>  
-<p>Занимаюсь web разработкой с 2022 года. Сейчас являюсь студентом Яндекс Практикума последних курсов.</p>
-<p>На предыдущем месте работы имел опыт коммерческой разработки со стороны заказчика, этот опыт и сподвигнул меня заняться Frontend разработкой 💻</p>
+<p>Занимаюсь web разработкой с 2022 года.</p>
+<p>Занимаюсь разработкой web интерфейсов и построением кастомных карт на базе 2GIS MapGL и GeoJSON 💻</p>
 
+<!--
 ### Над чем работаю сейчас?
 - 🔭 Пишу Бекенд на Nest.js + PostgresSQL
-
-- 🌱 Обучаюсь на последних курсах Яндекс Практикума. **Впереди еще Docker, тестирование бекенда и многое другое =)**
-
-- 👨‍💻 В планах изучить новые фреймворки(Vue) и заняться изучением бэкенда(PHP или Python?🤔 Советы приветствуются😀).
+-->
 ### Проекты на ghPages:
  📌<a href="https://justsimon01.github.io/Stellar-burgers/">Космическая бургерная с drag&drop конструктором и websocket.</a>  
  📌<a href="https://justsimon01.github.io/algososh/">algososh. Визуализатор алгоритмов. Jest+Cypress</a>  
@@ -48,6 +46,8 @@ Telegramm: <a href="https://t.me/JustSimon01">@JustSimon01</a>
   <img src="https://img.shields.io/badge/docker-323232?style=for-the-badge&logo=docker&logoColor=#2496ED" />
 </p>
 
+<!-- 
 ### Немного статистики:
 ![Anurag's GitHub stats](https://github-readme-stats-tawny-pi-55.vercel.app/api?username=JustSimon01&show_icons=true&theme=darcula&hide=issues&rank_icon=github)
 [![Top Langs](https://github-readme-stats-tawny-pi-55.vercel.app/api/top-langs/?username=JustSimon01&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+-->
